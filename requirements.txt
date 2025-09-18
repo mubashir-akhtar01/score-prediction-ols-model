@@ -1,0 +1,7 @@
+python-dotenv
+pandas
+sagemaker
+scikit-learn
+boto3
+joblib
+statsmodels
